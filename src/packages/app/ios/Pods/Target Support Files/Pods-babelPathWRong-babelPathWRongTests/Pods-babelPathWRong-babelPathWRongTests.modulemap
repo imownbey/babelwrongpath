@@ -1,0 +1,6 @@
+module Pods_babelPathWRong_babelPathWRongTests {
+  umbrella header "Pods-babelPathWRong-babelPathWRongTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

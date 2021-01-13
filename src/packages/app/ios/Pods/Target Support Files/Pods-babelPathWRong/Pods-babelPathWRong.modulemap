@@ -1,0 +1,6 @@
+module Pods_babelPathWRong {
+  umbrella header "Pods-babelPathWRong-umbrella.h"
+
+  export *
+  module * { export * }
+}
